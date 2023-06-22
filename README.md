@@ -1,6 +1,4 @@
-# NextLevel_WebApp
-Welcome to the Ecommerce Web App Repository, a comprehensive collection of resources and tools for building your own robust and feature-rich online shopping platform. Whether you're a seasoned developer or a budding entrepreneur, this repository provides a solid foundation and a wealth of assets to kickstart your ecommerce venture.
-# Ecommerce Web App
+# "Next-Level" Ecommerce Web App
 
 Welcome to the Ecommerce Web App, a powerful and scalable solution for creating your own online shopping platform. This README file will guide you through the steps required to set up and run the backend of the app.
 
