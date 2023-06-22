@@ -39,7 +39,7 @@ Before proceeding, ensure that you have the following installed:
 5. Run the backend server:
 
    ```shell
-   npm run dev
+   npm run prod
    ```
 
    This command will start the backend server in development mode.
