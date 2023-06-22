@@ -15,7 +15,7 @@ Before proceeding, ensure that you have the following installed:
 1. Clone the repository to your local machine:
 
    ```shell
-   git clone https://github.com/your-username/ecommerce-web-app.git
+   git clone https://github.com/it21291364/NextLevel_WebApp.git
    ```
 
 2. Navigate to the backend directory:
